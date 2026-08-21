@@ -46,9 +46,6 @@ These studies target safety-critical and hard real-time application domains, inc
 |---------|-------------|----------|
 | [ROS-RTEMS](https://github.com/siweimutong/ROS-RTEMS) | Real-time system (RTEMS) integration engineering for robotic applications (面向机器人应用的实时系统集成工程) | C++ |
 | [Satellite-VNF-Placement](https://github.com/siweimutong/Satellite-VNF-Placement) | Reinforcement-learning solution for VNF task placement in satellite environments | — |
-| [ROS2_tracing_analysis_tools](https://github.com/siweimutong/ROS2_tracing_analysis_tools) | Tools for analysing callback information traced by ROS2 tracing | Python |
-| [Sound-WCDFP](https://github.com/siweimutong/Sound-WCDFP) | Supplementary code for evaluating new safe bounds on Chernoff Bounds | — |
-| [siwei-mutong.github.io](https://github.com/siweimutong/siwei-mutong.github.io) | Academic personal homepage (AcadHomepage template) | HTML / SCSS |
 
 ---
 
